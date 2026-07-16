@@ -2,6 +2,6 @@ server.js
 api.js
 package.json
 schema.sql
-vercel.json (برای Render لازم نیست)
+vercel.json
 .env.example
 /db/index.js
